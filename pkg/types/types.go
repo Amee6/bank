@@ -21,4 +21,5 @@ type Payment struct {
 	ID int64	
 	Amount Money
 	Category Category
+	Status	Status
 }

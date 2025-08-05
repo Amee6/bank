@@ -1,3 +1,3 @@
-module github.com/Amee6/bank/v2
+module github.com/Amee6/bank/v3
 
 go 1.24.5
